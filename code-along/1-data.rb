@@ -28,3 +28,4 @@ greeting = "heeeyyyy"
 puts "#{greeting}, world"
 
 # String manipulation
+puts greeting.reverse
