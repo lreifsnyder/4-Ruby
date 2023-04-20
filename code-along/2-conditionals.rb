@@ -4,6 +4,9 @@
 
 # Booleans
 
+puts true
+puts false
+
 # Boolean Expressions
 
 # If Conditional Logic
